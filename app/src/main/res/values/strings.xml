@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">ProyectoMoviles</string>
+    <string name="LoginBTN">LOGIN</string>
+    <string name="RegistrarBTN">Registrarme</string>
+
+
+    <!--Registro-->
+
+    <string name="RegistroTXT">Registro</string>
+    <string name="Correo">Escriba Correo</string>
+    <string name="Password">Escriba Contraseña</string>
+    <string name="Nombres">Nombres Completos</string>
+    <string name="Apellidos">Apellidos Completos</string>
+    <string name="Edad">Edad</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Direccion">Direccion</string>
+    <string name="RegistrarUsuario">Registrarme</string>
+    <string name="Volver">Regresar</string>
+
+    <!--Login-->
+    <string name="CorreoLogin">Correo Electronico</string>
+    <string name="PasswordLogin">Contraseña</string>
+    <string name="Titulo">Red Social</string>
+    <string name="Ingresar">LOGIN</string>
 </resources>

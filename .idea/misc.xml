@@ -5,7 +5,11 @@
       <map>
         <entry key="..\:/Users/User/AndroidStudioProjects/ProyectoMoviles/app/src/main/res/drawable/boton_personalizado.xml" value="0.5703125" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ProyectoMoviles/app/src/main/res/drawable/boton_personalizado_dos.xml" value="0.5703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProyectoMoviles/app/src/main/res/layout/activity_inicio.xml" value="0.32708333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProyectoMoviles/app/src/main/res/layout/activity_login.xml" value="0.32708333333333334" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ProyectoMoviles/app/src/main/res/layout/activity_main.xml" value="0.5181159420289855" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProyectoMoviles/app/src/main/res/layout/activity_pantallade_carga.xml" value="0.32708333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProyectoMoviles/app/src/main/res/layout/activity_registro.xml" value="0.32708333333333334" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ProyectoMoviles/app/src/main/res/layout/no_sesion.xml" value="0.53125" />
       </map>
     </option>
