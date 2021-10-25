@@ -11,7 +11,7 @@
         android:id="@+id/PasswordLogin"
         android:layout_width="383dp"
         android:layout_height="43dp"
-        android:layout_marginBottom="24dp"
+        android:layout_marginBottom="40dp"
         android:drawableLeft="@drawable/pass_ico"
         android:drawablePadding="5dp"
         android:hint="@string/PasswordLogin"
@@ -19,6 +19,7 @@
         android:textColorHint="#000"
         app:layout_constraintBottom_toTopOf="@+id/INGRESAR"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.571"
         app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
@@ -41,7 +42,7 @@
         android:id="@+id/CorreoLogin"
         android:layout_width="383dp"
         android:layout_height="43dp"
-        android:layout_marginBottom="44dp"
+        android:layout_marginBottom="20dp"
         android:drawableLeft="@drawable/user_ico"
         android:drawablePadding="5dp"
         android:hint="@string/CorreoLogin"
@@ -49,7 +50,7 @@
         android:textColorHint="#000"
         app:layout_constraintBottom_toTopOf="@+id/PasswordLogin"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.428"
+        app:layout_constraintHorizontal_bias="0.642"
         app:layout_constraintStart_toStartOf="parent" />
 
     <ImageView
